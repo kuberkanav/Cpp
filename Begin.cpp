@@ -1,6 +1,6 @@
 #include <iostream>
 
-//iostream is a standard c++ library that helps us use the prebuilt functions that reside instide it.
+//iostream is a standard c++ library that helps us use the prebuilt functions that reside inside it.
 
 int main() {
     
